@@ -33,8 +33,15 @@ zplug "arks22/tmuximum", as:command
 #### Manually
 
 ```
-$ curl -L raw.github.com/arks22/tmuximum/master/install.bash | bash 
+$ curl -L raw.github.com/haganelego/tmuximum/master/install.bash | bash 
 ```
+
+#### Manually install local
+
+```
+$ curl -L raw.github.com/haganelego/tmuximum/master/install_local.bash | bash
+```
+
 
 ## Requirements
 Either of these is necessary.
